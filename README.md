@@ -1,1 +1,16 @@
 # rajdan20.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PEWSPL | Strategic Lending</title>
+</head>
+<body>
+    <h1>Welcome to PEWSPL Strategic Services</h1>
+    <p>We provide high-yield lending solutions and warehouse logistics management.</p>
+    <ul>
+        <li>Current NPA: 0.00%</li>
+        <li>Active Principal: ₹2.68 Lakhs</li>
+        <li>Location: Kheda / Surat / Mumbai</li>
+    </ul>
+</body>
+</html>
