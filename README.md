@@ -1,8 +1,7 @@
 # rajdan20.github.io
-<!DOCTYPE html>
 <html>
 <head>
-    <title>PEWSPL | Strategic Lending</title>
+    <title>Meet me in Person</title>
 </head>
 <body>
     <h1>Welcome to PEWSPL Strategic Services</h1>
